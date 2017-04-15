@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 
 import java.util.Calendar;
 import java.util.Date;

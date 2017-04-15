@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 
 /**
  * 私有构造器或枚举类型强化Singleton属性

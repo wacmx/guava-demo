@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 
 /**
  * 私有构造器强化不可实例化能力

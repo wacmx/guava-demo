@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 /**
  * 消除过期的对象引用
  *	场景:

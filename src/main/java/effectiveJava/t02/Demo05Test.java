@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 
 public class Demo05Test {
 	public static void main(String[] args) {

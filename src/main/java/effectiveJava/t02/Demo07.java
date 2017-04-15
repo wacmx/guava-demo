@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 /**
  * 避免使用终结方法
  */

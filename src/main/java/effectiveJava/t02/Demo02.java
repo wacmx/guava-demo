@@ -1,4 +1,4 @@
-package effectiveJava.t01;
+package effectiveJava.t02;
 
 /**
  * 多个构造器参数,使用构建器/JavaBean模式 set get/Builder模式
